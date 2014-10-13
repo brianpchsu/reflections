@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git initialize empty Git repository in the folder and thus it can start track file. 
