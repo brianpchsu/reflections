@@ -3,3 +3,22 @@ Git initialize empty Git repository in the folder and thus it can start track fi
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It provide temporatory stage for me to work on before commit. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+Add file one per commit. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If I have experimental version I would like to test. Branch allows me to have master and branch code at the same time. 
+
+How do the diagrams help you visualize the branch structure?
+So I can know which commit in the branch is accessible. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Two branches will be one branch. One line diagram can make us easy to see the history happens. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Auto: prevent not saving. 
+Cons: probably too many commit.
+
+Test!
